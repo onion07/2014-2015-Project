@@ -1,5 +1,5 @@
 # 2014-2015-Project
-说明：这里是部分项目，部分移动页面和PC页做了设备识别，所以要打开移动页面需要使用移动设备或者是类似chrome的开发者控制台移动设备模拟模式
+说明：因为有些项目没保存，所以这里是部分项目。注意部分移动页面和PC页做了设备识别，所以要打开移动页面需要使用移动设备或者是类似chrome的开发者控制台移动设备模拟模式
 ###mobile###
 	http://m.aipai.com/mobile/login.php?test=1&phptal?dev(新版爱拍登录测试版)
 	http://www.aipai.com/mobile/zt/syss.html	
@@ -30,12 +30,30 @@
 	http://www.aipai.com/zt/2015/sqsd.html
 	http://www.aipai.com/zt/2015/gwlr.html
 	http://www.aipai.com/zt/2015/nz2.html 
+	http://www.aipai.com/zt/2015/mxz.html
 	http://www.aipai.com/zt/2015/jfzr.html
+	http://www.aipai.com/zt/2014/qqsm.html
+	http://www.aipai.com/zt/2014/tscq2.html
+	http://www.aipai.com/zt/2014/smzh.html
+	http://www.aipai.com/zt/2014/mrsg.html
+	http://www.aipai.com/zt/2014/qsjapp.html
 	http://www.aipai.com/zt/2015/jl.html
 	http://www.aipai.com/zt/2015/notdie.html
+	http://www.aipai.com/zt/2014/ttbc.html
+	http://www.aipai.com/zt/2014/tmws.html
+	http://www.aipai.com/zt/2014/xsm.html
 	http://www.aipai.com/zt/2014/cf2.html
+	http://www.aipai.com/zt/2014/cf2.html
+	http://www.aipai.com/zt/2014/tksj.html
+	http://www.aipai.com/zt/2014/gdhy.html
+	http://www.aipai.com/zt/2014/hxjh.html
+	http://www.aipai.com/zt/2014/yyj.html
+	http://webgame.aipai.com/sxd.php
+	http://webgame.aipai.com/jjsg.php
+	http://webgame.aipai.com/gameindex.php?game=sh2
 	http://www.aipai.com/zt/2015/csol.html
 	http://www.aipai.com/zt/2015/txzth.html
 	http://www.aipai.com/zt/2015/loljjls.html
 	http://www.aipai.com/zt/2015/syss.html
 	http://www.aipai.com/zt/2015/tjxm.html
+
