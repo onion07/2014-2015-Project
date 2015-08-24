@@ -1,8 +1,8 @@
 # 2014-2015-Project
 说明：这里是部分项目，部分移动页面和PC页做了设备识别，所以要打开移动页面需要使用移动设备或者是类似chrome的开发者控制台移动设备模拟模式
 ###mobile###
-	http://m.aipai.com/mobile/login.php?test=1&phptal(新版爱拍登录测试版)
-	http://www.aipai.com/mobile/zt/syss.php?cache=clean&phptal=1	
+	http://m.aipai.com/mobile/login.php?test=1&phptal?dev(新版爱拍登录测试版)
+	http://www.aipai.com/mobile/zt/syss.html	
 	http://www.aipai.com/zt/2015/mlyysMobile.html
 	http://www.aipai.com/zt/2015/fatherDayMobile.html
 	http://www.aipai.com/zt/2015/gkMobile.html
