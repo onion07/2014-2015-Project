@@ -36,6 +36,6 @@
 	http://www.aipai.com/zt/2014/cf2.html
 	http://www.aipai.com/zt/2015/csol.html
 	http://www.aipai.com/zt/2015/txzth.html
-	http://www.aipai.com/zt/2015/loljjls.html（商务模板）
+	http://www.aipai.com/zt/2015/loljjls.html
 	http://www.aipai.com/zt/2015/syss.html
 	http://www.aipai.com/zt/2015/tjxm.html
